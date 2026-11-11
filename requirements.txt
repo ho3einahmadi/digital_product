@@ -1,0 +1,10 @@
+
+#Django
+
+Django==6.0.2
+djangorestframework==3.16.1
+
+#Database
+
+#image and file
+pillow==12.1.1
